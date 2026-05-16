@@ -7,7 +7,6 @@ class Cam < Formula
   head "https://github.com/jgalea/cam-cli.git", branch: "main"
 
   depends_on xcode: ["13.0", :build]
-  depends_on :macos
   depends_on macos: :ventura
 
   def install
