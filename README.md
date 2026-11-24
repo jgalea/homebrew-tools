@@ -16,3 +16,4 @@ After tapping, install any formula from this tap with `brew install <name>`.
 | Tool | Description |
 |------|-------------|
 | [cam](https://github.com/jgalea/cam-cli) | Viewfinder + capture from a Mac camera (incl. iPhone Continuity Camera) in the terminal. |
+| [domcheck](https://github.com/jgalea/domcheck) | Bulk domain availability checker over RDAP, free and keyless. |
